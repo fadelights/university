@@ -1,0 +1,11 @@
+{
+    "scores": {
+        "atk": 200,
+        "ddg": 0,
+        "blk": -100,
+        "damaged": -300,
+        "scored": 300,
+        "none": 0
+    },
+    "kb_size": 100
+}
